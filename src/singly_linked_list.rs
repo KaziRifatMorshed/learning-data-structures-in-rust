@@ -8,6 +8,11 @@ struct Node<'a> {
 }
 
 impl Node<'_> {
+
+    fn new(d : i32) -> Self{
+        Node { data: d, next: None, }
+    }
+
     fn print_node(&self) {
         print!("{} ", self.data);
     }
@@ -21,4 +26,5 @@ impl Node<'_> {
 
 fn main() {
     println!("Singly Linked List in the Rust Programming language");
+    let &mut head: Node = 
 }

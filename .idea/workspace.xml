@@ -19,25 +19,25 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="yq1n6mlr" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mImdY2M7ki4WTJ2fPNVkb5YTK5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/scr33nw0rm/Documents/GitHub/learning-data-structures-in-rust",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.first.attach.projects": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/scr33nw0rm/Documents/GitHub/learning-data-structures-in-rust&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Cargo.Run learning-data-structures-in-rust">
     <configuration name="Run learning-data-structures-in-rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package learning-data-structures-in-rust --bin learning-data-structures-in-rust" />
@@ -86,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726772552795</updated>
       <workItem from="1726772553891" duration="34000" />
+      <workItem from="1729882907817" duration="4000" />
     </task>
     <servers />
   </component>
